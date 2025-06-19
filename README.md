@@ -150,7 +150,7 @@ Once the API is running, visit `http://localhost:8000/docs` for interactive API 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the NO License.
 
 ## Acknowledgments
 
