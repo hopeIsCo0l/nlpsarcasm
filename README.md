@@ -156,4 +156,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Sarcasm Headlines Dataset creators
 - Open source NLP community
-- FastAPI and scikit-learn communities 
+- FastAPI and scikit-learn communities
+- Dr. Fantahun Bogale
